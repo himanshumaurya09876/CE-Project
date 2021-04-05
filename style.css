@@ -1,0 +1,53 @@
+*{
+	margin:0;
+}
+
+body{
+	background-color: lightgreen;
+}
+
+/****************** Home page ***********************/
+
+.home{
+	display: grid;
+	align-items: center;
+	justify-content: center;
+	margin-top:25rem;
+	text-align: center;
+}
+
+.home a{
+	color:white;
+	text-decoration-line: none;
+}
+
+.home button{
+	margin-top: 2rem;
+	width: fit-content;
+	margin: auto;
+	margin-top: 2rem;
+}
+
+.copyright{
+	margin-top: 2rem;
+	text-align: center;
+}
+
+/****************** Problem 1 page ***********************/
+
+#problem1{
+	display: grid;
+	align-items: center;
+	justify-content: center;
+	margin-top:15rem;
+}
+
+
+/****************** Problem 2 page ***********************/
+
+#problem2{
+	display: grid;
+	align-items: center;
+	justify-content: center;
+	margin-top:15rem;
+}
